@@ -1,0 +1,1 @@
+[{"roomName":"2번방","userName":"구굴이"}]
