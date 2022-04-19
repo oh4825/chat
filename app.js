@@ -18,6 +18,7 @@ app.use(bodyParser.json());
 //       message: 'success!',
 //     });
 //   });
+// ^^
 app.get('/room_list', (req, res) => {
     const rFile = new FileUtil();
     console.log(rFile.readFile());
